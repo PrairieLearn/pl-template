@@ -2,7 +2,7 @@
 
 Welcome to PrairieLearn! 
 
-Within this repository, the content for your course is stored.
+The content for your course is stored within this repository.
 You can see and edit a live version at <https://prairielearn.engr.illinois.edu/>.
 
 To view the live course on PrairieLearn's website click on "Add or Remove Courses" and, then,
