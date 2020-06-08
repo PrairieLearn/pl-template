@@ -20,7 +20,7 @@ The roles of each file and directory are:
 
 ### Reference Guide
 
-<a href="https://coatless.github.io/pl-cheatsheets/pdfs/prairielearn-authoring-cheatsheet.pdf"><img src="https://coatless.github.io/pl-cheatsheets/pngs/pl-authoring-cheatsheet-overview.png" width="650" height="400"/></a>  
+[![](https://coatless.github.io/pl-cheatsheets/pngs/pl-authoring-cheatsheet-overview.png)](https://coatless.github.io/pl-cheatsheets/pdfs/prairielearn-authoring-cheatsheet.pdf)
 
 ### Getting help
 
