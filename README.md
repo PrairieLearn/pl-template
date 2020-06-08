@@ -11,7 +11,7 @@ PrairieLearn stores data for a course using folders and JSON files.
 Each of these files can be edited directly using [PrairieLearn website's "Files" or "Settings" tab](https://prairielearn.engr.illinois.edu/). 
 The roles of each file and directory are:
 
-- **[infoCourse.json](infoCourse.json)**: Store basic information about the course such as its number and name, e.g. PL 101: Using PrairieLearn.
+- **[infoCourse.json](infoCourse.json)**: Stores basic information about the course such as its number and name, e.g. PL 101: Using PrairieLearn.
 - **[courseInstances/](courseInstances/)**: Directory containing per-semester offerings of a course, e.g. Fall 2020 and Spring 2021.
    - **[courseInstances/Fa20/infoCourseInstance.json](courseInstances/Fa20/infoCourseInstance.json)**: The upcoming Fall 2020 semster is found here. Make sure to set when the course should open and list the course's teaching staff.
    - **[courseInstances/Fa20/assessments](courseInstances/Fa20/assessments)**: Any assessment such as homework or exams for the Fall 2020 semester will be located here. These assessments are specific to the single-time course offering.
@@ -30,4 +30,3 @@ Need help understanding an error or creating content? Check out one of the follo
 1. Looking up the question on our [Frequently Asked Question (FAQ) page](https://prairielearn.readthedocs.io/en/latest/faq/).
 1. Attend an in-person or virtual office hours, which are announced at the start of the
    semester on PrairieLearn's [Slack](https://prairielearn.slack.com) and [e-mail listserv](https://lists.illinois.edu/lists/info/prairielearn-announce).
-
