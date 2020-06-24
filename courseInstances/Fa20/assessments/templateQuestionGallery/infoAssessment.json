@@ -1,0 +1,44 @@
+{
+    "uuid": "597176b9-9145-4226-8a77-d0973bad80df",
+    "type": "Homework",
+    "title": "Template Question Gallery",
+    "set": "Template Assessment",
+    "number": "1",
+    "allowAccess": [
+        {
+            "role": "Instructor",
+            "credit": 100
+        }
+    ],
+    "zones": [
+        {
+            "title": "Multiple-choice questions",
+            "questions": [
+
+                {"id": "template/multipleChoiceSingleCorrect", "points": 1},
+                {"id": "template/multipleChoiceMultipleCorrect", "points": 1, "maxPoints": 2},
+                {"id": "template/multipleChoiceFromList", "points": 1, "maxPoints": 4},
+                {"id": "template/multipleChoiceNumeric", "points": 1, "maxPoints": 4},
+                {"id": "template/multipleChoiceTrueFalseFromList", "points": 1, "maxPoints": 2},
+                {"id": "template/multipleChoiceWithFigure", "points": 1, "maxPoints": 4}
+            ]
+        },
+        {
+            "title": "Checkbox questions",
+            "questions": [
+                {"id": "template/checkbox", "points": 1, "maxPoints": 2}
+            ]
+        },
+        {
+            "title": "Numerical questions",
+            "questions": [
+                {"id": "template/numberInput", "points": 1, "maxPoints": 2},
+                {"id": "template/integerInput", "points": 1, "maxPoints": 2},
+                {"id": "template/numberInputGradingMethod", "points": 1, "maxPoints": 2},
+                {"id": "template/numberInputTips", "points": 1, "maxPoints": 2},
+                {"id": "template/integerInputWithDynamicFigure", "points": 1, "maxPoints": 4}
+            ]
+        }
+    ],
+    "text": "Need to include any information for students at the top? Like a formula sheet or reading? Add the link to infoAsssessment.json. More details at <a target=\"_blank\" href=\"https://prairielearn.readthedocs.io/en/latest/faq/#how-can-we-provide-a-cheat-sheet-for-cbtf-exams\">PrairieLearn's FAQ</a>. Any question may be copied by visiting the 'Questions' space, clicking on the question's name, navigating to the 'Settings' tab (to the right of the 'Preview' tab), and pressing 'Make a Copy of This Question'. "
+}

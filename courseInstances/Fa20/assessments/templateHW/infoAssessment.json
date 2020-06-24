@@ -1,0 +1,61 @@
+{
+    "uuid": "754dac56-fc1f-4888-a74a-1b365fd48379",
+    "type": "Homework",
+    "title": "Template Homework - Copy this to begin!",
+    "set": "Homework",
+    "number": "99",
+    "allowAccess": [
+        {
+            "role": "TA",
+            "credit": 100
+        },
+        {
+            "mode": "Public",
+            "credit": 100,
+            "startDate": "2020-06-18T00:00:01",
+            "endDate": "2020-06-20T23:59:59"
+        },
+        {
+            "mode": "Public",
+            "credit": 50,
+            "startDate": "2020-06-21T00:00:01",
+            "endDate": "2020-06-25T23:59:59"
+        },
+        {
+            "mode": "Public",
+            "credit": 0,
+            "startDate": "2020-06-26T00:00:01"
+        }
+    ],
+    "zones": [
+        {
+            "title": "Fundamental questions",
+            "bestQuestions": 3,
+            "questions": [
+                {"id": "template/multipleChoiceFromList",                 "points": 1, "maxPoints": 5},
+                {"id": "template/checkbox",                               "points": 1, "maxPoints": 5},
+                {"id": "template/multipleChoiceTrueFalseFromList",        "points": 1, "maxPoints": 5},
+                {"id": "calculation",                                     "points": 1, "maxPoints": 5}
+            ]
+        },
+        {
+            "title": "Intermediate questions",
+            "bestQuestions": 2,
+            "questions": [
+                {"id": "template/multipleChoiceWithFigure",      "points": 1, "maxPoints": 5},
+                {"id": "template/numberInput",                   "points": 1, "maxPoints": 5},
+                {"id": "template/multipleChoiceMultipleCorrect", "points": 1, "maxPoints": 5}
+           ]
+        },
+        {
+            "title": "Advanced questions",
+            "bestQuestions": 1,
+            "questions": [
+                {"id": "template/multipleChoiceNumeric",         "points": 1, "maxPoints": 5},
+                {"id": "template/numberInputTips",               "points": 1, "maxPoints": 5},
+                {"id": "template/integerInputWithDynamicFigure", "points": 1, "maxPoints": 5}
+            ]
+        }
+    ],
+    "text": "Need to include any information for students at the top? Like a formula sheet or reading? Add the link to infoAsssessment.json. More details at <a target=\"_blank\" href=\"https://prairielearn.readthedocs.io/en/latest/faq/#how-can-we-provide-a-cheat-sheet-for-cbtf-exams\">PrairieLearn's FAQ</a>. Any question may be copied by visiting the 'Questions' space, clicking on the question's name, navigating to the 'Settings' tab (to the right of the 'Preview' tab), and pressing 'Make a Copy of This Question'. "
+}
