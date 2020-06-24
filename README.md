@@ -17,6 +17,8 @@ The roles of each file and directory are:
    - **[courseInstances/Fa20/assessments](courseInstances/Fa20/assessments)**: Any assessment such as homework or exams for the Fall 2020 semester will be located here. These assessments are specific to the single-time course offering.
 - **[questions/](questions/)**: All questions created for a course are found here. 
    - **[questions/template](questions/template)**: Inside of the **[questions/](questions/)** directory, templates containing the best design practices for creating assessment items can be found. We recommend using these templates as a base for creating your own questions.
+   
+Questions or assessments may be copied from within the web interface by visiting either the 'Questions' or 'Assessments' space. Inside the respective space, click on the desired question or assessment name, navigating to the 'Settings' tab (to the right of the 'Preview' or 'Regrading' tab), and pressing 'Make a Copy of This Question/Assessment'.
 
 ### Reference Guide
 
