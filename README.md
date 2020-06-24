@@ -11,7 +11,7 @@ PrairieLearn stores data for a course using folders and JSON files.
 Each of these files can be edited directly using the [PrairieLearn website's "Files" or "Settings" tab](https://prairielearn.engr.illinois.edu/). 
 The roles of each file and directory are:
 
-- **[infoCourse.json](infoCourse.json)**: Stores basic information about the course such as its number and name, e.g. PL 101: Using PrairieLearn.
+- **[infoCourse.json](infoCourse.json)**: Stores basic information about the course such as its department code, number and name, e.g. PL 101: Using PrairieLearn.
 - **[courseInstances/](courseInstances/)**: Directory containing per-semester offerings of a course, e.g. Fall 2020 and Spring 2021.
    - **[courseInstances/Fa20/infoCourseInstance.json](courseInstances/Fa20/infoCourseInstance.json)**: The upcoming Fall 2020 semester is found here. Make sure to set when the course should open and list the course's teaching staff.
    - **[courseInstances/Fa20/assessments](courseInstances/Fa20/assessments)**: Any assessment such as homework or exams for the Fall 2020 semester will be located here. These assessments are specific to the single-time course offering.
