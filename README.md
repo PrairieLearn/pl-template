@@ -16,9 +16,14 @@ The roles of each file and directory are:
    - **[courseInstances/Fa20/infoCourseInstance.json](courseInstances/Fa20/infoCourseInstance.json)**: The upcoming Fall 2020 semester is found here. Make sure to set when the course should open and list the course's teaching staff.
    - **[courseInstances/Fa20/assessments](courseInstances/Fa20/assessments)**: Any assessment such as homework or exams for the Fall 2020 semester will be located here. These assessments are specific to the single-time course offering.
 - **[questions/](questions/)**: All questions created for a course are found here. 
-   - **[questions/template](questions/template)**: Inside of the **[questions/](questions/)** directory, templates containing the best design practices for creating assessment items can be found. We recommend using these templates as a base for creating your own questions.
+   - **[questions/sampleMultipleChoice](questions/template)**: Inside of the **[questions/](questions/)** directory, one sample multiple choice question is present. The question is designed to show a new answer on each subsequent attempt of the question. For creating your own questions, we recommend until you get familiar with the system to use template questions as a base, which can be found in the Example Course (XC 101).
    
-Questions or assessments may be copied from within the web interface by visiting either the 'Questions' or 'Assessments' space. Inside the respective space, click on the desired question or assessment name, navigating to the 'Settings' tab (to the right of the 'Preview' or 'Regrading' tab), and pressing 'Make a Copy of This Question/Assessment'.
+Questions or assessments may be copied from within the web interface by visiting either the 'Questions' or 'Assessments' space of a course. 
+Inside the respective space, the copy action is achieved by: 
+
+1. Clicking on the desired question or assessment name
+2. Navigating to the 'Settings' tab (to the right of the 'Preview' or 'Regrading' tab)
+3. Pressing 'Make a Copy of This Question/Assessment'.
 
 ### Reference Guide
 
