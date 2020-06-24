@@ -3,12 +3,9 @@
     "name": "TPL 101",
     "title": "Template Course",
     "assessmentSets": [
-        {"abbreviation": "TPL", "name": "Template Assessment", "heading": "Template Assessments", "color": "orange1"}
     ],
     "topics": [
         {"name": "Template", "color": "orange1", "description": "Templates to copy as the start for a new question."},
-        {"name": "Demo", "color": "purple1", "description": "Demonstration questions showcasing PrairieLearn features."},
-        
         {"name": "Algebra", "color": "red3", "description": "Basic algebra."},
         {"name": "Calculus", "color": "yellow3", "description": "Single and multiple variable calculus."},
         {"name": "Vectors", "color": "blue3", "description": "Vector algebra in 3D."},
