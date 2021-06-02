@@ -4,6 +4,9 @@
     "title": "Template Course",
     "assessmentSets": [
     ],
+    "options": {
+        "useNewQuestionRenderer": true
+    },
     "topics": [
         {"name": "Gallery", "color": "orange1", "description": "Gallery of PL questions"}
     ],
