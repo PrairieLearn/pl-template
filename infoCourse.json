@@ -5,10 +5,9 @@
     "assessmentSets": [
     ],
     "topics": [
-        {"name": "Template", "color": "orange1", "description": "Templates to copy as the start for a new question."}
+        {"name": "Gallery", "color": "orange1", "description": "Gallery of PL questions"}
     ],
     "tags": [
-        {"name": "tpl101", "color": "gray1", "description": "Question originally written as templates for TPL 101 template course"},
-        {"name": "balamut2", "color": "orange1", "description": "Question originally written by balamut2"}
+        {"name": "mariana@prairielearn.com", "color": "gray1", "description": "Author of the original question"}
     ]
 }
