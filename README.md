@@ -5,9 +5,9 @@
 The content for your course is stored within this repository.
 You can see and edit a live version at [https://prairielearn.com](https://prairielearn.com)
 
-### Reference Guide
+### Getting Started
 
-[![](https://coatless.github.io/pl-cheatsheets/pngs/pl-authoring-cheatsheet-overview.png)](https://coatless.github.io/pl-cheatsheets/pdfs/prairielearn-authoring-cheatsheet.pdf)
+Learn how to create your first questions and assessments using our [Get Started](https://prairielearn.readthedocs.io/en/latest/getStarted/) tutorial.
 
 ### Getting help
 
