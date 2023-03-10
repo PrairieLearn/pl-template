@@ -9,7 +9,7 @@ You can see and edit a live version at [https://prairielearn.com](https://prairi
 
 Learn how to create your first questions and assessments using our [Get Started](https://prairielearn.readthedocs.io/en/latest/getStarted/) tutorial.
 
-### Getting help
+### Getting Help
 
 Need help understanding an error or creating content? Check out one of the following resources:
 
