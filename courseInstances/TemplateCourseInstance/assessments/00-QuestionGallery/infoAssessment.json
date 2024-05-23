@@ -7,32 +7,53 @@
     "allowAccess": [
         {
             "mode": "Public",
-	    "credit": 100,
-	    "startDate": "2021-02-02T00:00:01",
-	    "endDate": "2021-02-10T23:59:59"
+            "credit": 100,
+            "startDate": "2021-02-02T00:00:01",
+            "endDate": "2021-02-10T23:59:59"
         }
     ],
     "zones": [
         {
             "title": "Checkbox Input (pl-checkbox)",
             "questions": [
-                {"id": "Gallery/checkbox/simple","points": 1},
-                {"id": "Gallery/checkbox/complex","points": 1}
+                {
+                    "id": "Gallery/checkbox/simple",
+                    "points": 1
+                },
+                {
+                    "id": "Gallery/checkbox/complex",
+                    "points": 1
+                }
             ]
         },
         {
             "title": "Include Figure (pl-figure)",
             "questions": [
-                {"id": "Gallery/includeFigure/simple","points": 1},
-                {"id": "Gallery/includeFigure/complex","points": 1}
+                {
+                    "id": "Gallery/includeFigure/simple",
+                    "points": 1
+                },
+                {
+                    "id": "Gallery/includeFigure/complex",
+                    "points": 1
+                }
             ]
         },
         {
             "title": "Multiple-choice Input (pl-multiple-choice)",
             "questions": [
-                {"id": "Gallery/multipleChoice/simple","points": 1},
-                {"id": "Gallery/multipleChoice/complex","points": 1},
-                {"id": "Gallery/multipleChoice/advanced","points": 1}
+                {
+                    "id": "Gallery/multipleChoice/simple",
+                    "points": 1
+                },
+                {
+                    "id": "Gallery/multipleChoice/complex",
+                    "points": 1
+                },
+                {
+                    "id": "Gallery/multipleChoice/advanced",
+                    "points": 1
+                }
             ]
         }
     ],
